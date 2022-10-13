@@ -1,0 +1,6 @@
+{
+  "watch": ["."],
+  "exec": "ts-node -r dotenv/config src/index.ts",
+  "ext": "ts, tsx",
+  "ignore": ["node_modules"]
+}
